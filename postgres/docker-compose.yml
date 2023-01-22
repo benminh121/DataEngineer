@@ -1,0 +1,18 @@
+services:
+  pgdatabase:
+    container_name: pgdatabase
+    image: postgres:15
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=ny_taxi
+    volumes:
+      - "./ny_taxi_postgres_data:/var/lib/postgresql/data:rw"
+    ports:
+      - "5432:5432"
+    networks:
+      - airflow-network
+
+networks:
+  airflow-network:
+    driver: bridge
