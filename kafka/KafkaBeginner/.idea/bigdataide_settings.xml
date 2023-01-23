@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BigDataIdeConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="enabled" value="false" />
+          <option name="extended">
+            <map>
+              <entry key="properties" value="rO0ABXQA6nNlY3VyaXR5LnByb3RvY29sPVNBU0xfU1NMCnNhc2wuamFhcy5jb25maWc9b3JnLmFwYWNoZS5rYWZrYS5jb21tb24uc2VjdXJpdHkucGxhaW4uUGxhaW5Mb2dpbk1vZHVsZSByZXF1aXJlZCB1c2VybmFtZT0nNlE0VjNUVEdSUzVSQVlUWScgcGFzc3dvcmQ9J2lZa0FIOGVMRkd6R1VjdkNYM001V0xmZjBlRnF0WHdDT2JVd2FrQVF3VUQyWWZGUWMvK2pNcjMxUGtxS1BIZkonOwpzYXNsLm1lY2hhbmlzbT1QTEFJTg==" />
+              <entry key="propertySource" value="rO0ABX5yADhjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5rYWZrYS5yZnMuS2Fma2FQcm9wZXJ0eVNvdXJjZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABkRJUkVDVA==" />
+              <entry key="tunnel" value="rO0ABXNyAFdjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb21tb24uY29ubmVjdGlvbi50dW5uZWwubW9kZWwuQ29ubmVjdGlvblNzaFR1bm5lbERhdGFMZWdhY3mINKLe8MxKbAIABFoACWlzRW5hYmxlZEkACnJlbW90ZVBvcnRMAAhjb25maWdJZHQAEkxqYXZhL2xhbmcvU3RyaW5nO0wACnJlbW90ZUhvc3RxAH4AAXhwAP////90AABxAH4AAw==" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.kafka.rfs.KafkaConnectionData" />
+          <option name="groupId" value="KafkaConnections" />
+          <option name="innerId" value="Kafka connection@KafkaConnections@2806860760567656407" />
+          <option name="name" value="Kafka connection" />
+          <option name="perProject" value="true" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+          <option name="port" value="-1" />
+          <option name="uri" value="pkc-ldvr1.asia-southeast1.gcp.confluent.cloud:9092" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
+</project>
